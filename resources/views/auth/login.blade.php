@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Panda Login Form</title>
+	<title>Thesis MIS Login Form</title>
 	<link rel="stylesheet" type="text/css" href=" {{ asset('fontend/login/style.css') }} ">
 	{{-- <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script> --}}
 	<script src="{{ asset('fontend/login/TweenMax.min.js') }}"></script>
