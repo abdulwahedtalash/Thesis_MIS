@@ -18,9 +18,6 @@ Route::get('/', function () {
 });
 
 
-Route::get('/',function(){
-    return '<h2>this is for test</h2>';
-});
 
 Route::middleware([
     'auth:sanctum',
